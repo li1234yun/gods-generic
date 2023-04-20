@@ -13,10 +13,11 @@ package treemap
 
 import (
 	"fmt"
-	"github.com/ugurcsen/gods-generic/maps"
-	rbt "github.com/ugurcsen/gods-generic/trees/redblacktree"
-	"github.com/ugurcsen/gods-generic/utils"
 	"strings"
+
+	"github.com/li1234yun/gods-generic/maps"
+	rbt "github.com/li1234yun/gods-generic/trees/redblacktree"
+	"github.com/li1234yun/gods-generic/utils"
 )
 
 // Assert Map implementation

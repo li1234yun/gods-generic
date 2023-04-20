@@ -4,7 +4,7 @@
 
 package linkedhashset
 
-import "github.com/ugurcsen/gods-generic/containers"
+import "github.com/li1234yun/gods-generic/containers"
 
 // Assert Enumerable implementation
 var _ containers.EnumerableWithIndex[int] = (*Set[int])(nil)

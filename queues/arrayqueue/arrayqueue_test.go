@@ -7,9 +7,10 @@ package arrayqueue
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ugurcsen/gods-generic/utils"
 	"strings"
 	"testing"
+
+	"github.com/li1234yun/gods-generic/utils"
 )
 
 func TestQueueEnqueue(t *testing.T) {

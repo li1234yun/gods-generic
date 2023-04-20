@@ -6,7 +6,8 @@ package hashset
 
 import (
 	"encoding/json"
-	"github.com/ugurcsen/gods-generic/containers"
+
+	"github.com/li1234yun/gods-generic/containers"
 )
 
 // Assert Serialization implementation

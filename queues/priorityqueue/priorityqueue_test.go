@@ -7,10 +7,11 @@ package priorityqueue
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ugurcsen/gods-generic/utils"
 	"math/rand"
 	"strings"
 	"testing"
+
+	"github.com/li1234yun/gods-generic/utils"
 )
 
 type Element struct {

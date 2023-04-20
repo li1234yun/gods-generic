@@ -13,8 +13,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ugurcsen/gods-generic/lists/singlylinkedlist"
-	"github.com/ugurcsen/gods-generic/queues"
+	"github.com/li1234yun/gods-generic/lists/singlylinkedlist"
+	"github.com/li1234yun/gods-generic/queues"
 )
 
 // Assert Queue implementation

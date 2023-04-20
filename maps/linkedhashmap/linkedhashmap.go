@@ -13,9 +13,10 @@ package linkedhashmap
 
 import (
 	"fmt"
-	"github.com/ugurcsen/gods-generic/lists/doublylinkedlist"
-	"github.com/ugurcsen/gods-generic/maps"
 	"strings"
+
+	"github.com/li1234yun/gods-generic/lists/doublylinkedlist"
+	"github.com/li1234yun/gods-generic/maps"
 )
 
 // Assert Map implementation

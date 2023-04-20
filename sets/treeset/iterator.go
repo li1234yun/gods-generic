@@ -5,8 +5,8 @@
 package treeset
 
 import (
-	"github.com/ugurcsen/gods-generic/containers"
-	rbt "github.com/ugurcsen/gods-generic/trees/redblacktree"
+	"github.com/li1234yun/gods-generic/containers"
+	rbt "github.com/li1234yun/gods-generic/trees/redblacktree"
 )
 
 // Assert Iterator implementation

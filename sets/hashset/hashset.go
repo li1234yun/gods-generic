@@ -11,8 +11,9 @@ package hashset
 
 import (
 	"fmt"
-	"github.com/ugurcsen/gods-generic/sets"
 	"strings"
+
+	"github.com/li1234yun/gods-generic/sets"
 )
 
 // Assert Set implementation

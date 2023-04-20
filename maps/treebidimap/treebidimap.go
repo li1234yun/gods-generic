@@ -19,10 +19,11 @@ package treebidimap
 
 import (
 	"fmt"
-	"github.com/ugurcsen/gods-generic/maps"
-	"github.com/ugurcsen/gods-generic/trees/redblacktree"
-	"github.com/ugurcsen/gods-generic/utils"
 	"strings"
+
+	"github.com/li1234yun/gods-generic/maps"
+	"github.com/li1234yun/gods-generic/trees/redblacktree"
+	"github.com/li1234yun/gods-generic/utils"
 )
 
 // Assert Map implementation
